@@ -1,5 +1,5 @@
 # Sistema-reserva-Salas
--Lucas Arce
+-Lucas Arce (Seccion 2)
 
 #No muestra nigun tipo de include y extend
 
@@ -20,4 +20,17 @@
 #faltan algunas herencias
 
 #Los NotificadoresCorreo/SMS hacen exactamente lo mismo es duplicar lo mismo, deberia existir uno nomas
+
+#diagramas
+
+
+![Image](https://github.com/user-attachments/assets/78ae410f-41c4-46c5-ab6c-cd6a9a9da26e)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/c40a2a45-6007-41ce-87dc-88e4aec6944d)
+
+
+
 
